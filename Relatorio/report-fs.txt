@@ -1,0 +1,50 @@
+Relatorio da FS Ribeiro do Periodo 2024-06-01 00:00 a 2024-06-30 23:59
+
+Curva A dos produtos mais vendidos:
+Nome do Produto
+Cartliv Colágeno Tipo 2 Equaliv 60caps Dores E Articulação                                         363
+Colágeno Tipo II + Vit. D + Magnésio Condroflan Ultra Airela Suplemento Alimentar C/60 Cápsulas    300
+Ômega 3 Catarinense 1000mg Com 120 Cápsulas                                                        254
+Vitaminas Neo Química Mulher Saúde da Pele, Cabelo e Unhas C/60 Comprimidos - Kit C/3              239
+Medidor de Glicemia Accu-Chek Ative Rapida Medição Kit completo C/10 Tiras                         187
+Suplemento Alimentar Catarinense Poli vitamínico Multi Kids C/150ml                                161
+Kit C/2 Cartliv Colágeno Tipo 2 Equaliv 60caps Dores E Articulação                                 147
+Equaliv Ômega 3 C/180 Cápsulas Gelatinosas                                                          92
+Kit C/3 Cartliv Colágeno Tipo 2 Equaliv 60caps Dores E Articulação                                  87
+Vitaminas Neo Quimica A-Z Imunidade e Energia C/60 Comprimidos - Kit C/5                            54
+Vitaminas Neo Química Mulher Saúde da Pele, Cabelo e Unhas C/60 Comprimidos - Kit C/5               51
+Protetor Solar FPS 50 OAZ Euro Farma Protege e Hidrata Resistente à Água C/200ml                    50
+Vitaminas Neo Quimica Cabelos e Unhas Suplemento Alimentar C/60 Comprimidos - Kit C/5               48
+Suplemento Vitamínico Alimentar Infantil Lavitan Kids com 60 comprimidos.                           47
+Kit C/5 Vitamina C Infantil Sabor Laranja Ágil-C Kids C/25 Gomas                                    47
+Name: count, dtype: int64
+
+
+Valor Bruto Recebido:
+R$ 195.601,24
+Valor Total das Taxas Pagas à Shopee:
+R$ 49.773,06
+====================================
+Valor Liquido Recebido:
+R$ 145.828,18
+
+Status do pedido
+Concluído    76.57%
+Cancelado    17.82%
+Frete         5.61%
+Name: proportion, dtype: object
+
+Status do pedido
+Concluído    2866
+Cancelado     667
+Frete         210
+Name: count, dtype: int64
+
+Os Principais Cancelar Motivo
+Cancelado automaticamente pelo sistema da Shopee. Motivo : Pedido não pago           437
+Cancelado pelo comprador. Motivo : Outros                                             70
+Cancelado pelo comprador. Motivo : Não quero mais comprar                             62
+Cancelado pelo comprador. Motivo : É necessário modificar o pedido                    38
+Cancelado pelo comprador. Motivo : É necessário inserir/alterar o código do cupom     17
+Name: count, dtype: int64
+
